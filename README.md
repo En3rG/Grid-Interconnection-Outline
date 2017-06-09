@@ -28,9 +28,9 @@ The connection to be traced can be a single pin, a single component (with multip
 
 When an output/model is generated, the user can track what data were used to generate the model.  Under additional info, the user can see what drawing revision were used to generate the model.
 
-# Imrovements
+# Improvements
 
 * Test more scenarios
 * Add Tree view (I had this option on my previous version but stripped it off with this one)
 * Improve GUI, maybe use qml instead of widgets
-* Improve output.  This was mostly done as a concept.  There are definitely better ways to represent the output than using just regular HTML and jsplumb.  I am sure there is a javascript library out there than can be used to better display the output.
+* Improve output.  This was mostly done as a concept.  There are definitely better ways to represent the output than using just regular HTML/CSS and jsplumb.  I am sure there is a javascript library out there than can be used to better display the output.
