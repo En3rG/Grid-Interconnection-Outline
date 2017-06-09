@@ -1,0 +1,9 @@
+<LRU name="Cable4" DrawingNo="Auto Generated" DrawingNomenclature="Auto Generated" DrawingRevision="" DrawingDate="" Images="">
+  <J1 ExternalConnLRU="Cable1" ExternalConnConnector="P2">
+    <_1 InternalConns="" description="START SW" components="" type="" control=""/>
+    <_2 InternalConns="" description="START REQ" components="" type="" control=""/>
+    <_3 InternalConns="" description="ECM POWER (DSP)" components="" type="" control=""/>
+    <_4 InternalConns="" description="ENGINE STOP" components="" type="" control=""/>
+    <_5 InternalConns="" description="ECM POWER" components="" type="" control=""/>
+  </J1>
+</LRU>

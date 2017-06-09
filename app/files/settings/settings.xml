@@ -1,0 +1,8 @@
+<settings>
+  <Color color_output="#00FF00" color_unknown="white" color_control="orange" color_input="green" color_same="#ffff80"/>
+  <CSS swcontrol_border_radius="75px" lru_border_input_color="green" lru_border_component_color="black" background_color_lru="#006600" lru_border_px="18px" lru_border_same_color="#ffff80" control_border_radius="200px" component_border_radius="75px" cable_border_radius="75px" lru_border_radius="50px" output_border_radius="200px" background_color_internal="gray" background_color_cable="gray" lru_border_color="black" lru_border_component_same_color="#ffff80" lru_border_control_color="orange" lru_border_output_color="#00FF00" unknown_border_radius="200px" lru_border_swcontrol_color="orange" lru_border_swcontrol_same_color="#ffff80" input_border_radius="200px" lru_border_unknown_color="white"/>
+  <GridView2 num_processes="20" max_num_connections="4" directory="TEST1/" delay_time="250"/>
+  <Log Log="error"/>
+  <Shape shape_input="Dot" shape_same="Rectangle" shape_unknown="Dot" shape_output="Dot" shape_control="Dot"/>
+  <GridView overlap_endpoints="True" minimum_path_only="True" delete_path_list_loops_no_duplicate="False" get_internal="True" duplicateLRUasNeeded="True" more_random="True" duplicateLRU="True" generate_missing_xml="True" multi_process="False" draw_one_at_a_time="True" delete_multiple_loops="True" copy_description_to_missing_xml="True" reorder_paths="True"/>
+</settings>

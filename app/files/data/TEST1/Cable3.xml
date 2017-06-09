@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<CABLE name="Cable3" DrawingNo="12580677" DrawingNomenclature="Cable3 Assembly" DrawingRevision="Initial Release" DrawingDate="2015-07-01" Images="">
+	<P1 ExternalConnLRU="Item10" ExternalConnConnector="J6">
+		<A InternalConns="P2:_2" description="HIGH IDLE SW" components="" type="" control=""/>
+		<B InternalConns="P2:_1" description="AUDIO TONE CANCEL SW" components="" type="" control=""/>
+		<C InternalConns="P2:_36" description="BILGE PUMP SW" components="" type="" control=""/>
+		<D InternalConns="P2:_34" description="BILGE PUMP IND" components="" type="" control=""/>
+		<L InternalConns="P2:_32" description="STOP ENGINE IND" components="" type="" control=""/>
+		
+		<M InternalConns="P2:_31" description="CHECK ENGINE IND" components="" type="" control=""/>
+		<N InternalConns="P2:_33" description="XMISSION OIL HIGH TEMP" components="" type="" control=""/>
+		<P InternalConns="P2:_28" description="DRIVERS HATCH OPEN SW" components="" type="" control=""/>
+		<R InternalConns="P2:_29" description="DRIVERS HATCH OPEN SW RTN" components="" type="" control=""/>
+		<S InternalConns="P2:_11" description="+28VDC BUS MONITOR" components="" type="" control=""/>
+		
+		<T InternalConns="P2:_26" description="BATTERY INPUT, MONITOR" components="" type="" control=""/>
+		<W InternalConns="P2:_12" description="MASTER POWER SW OFF" components="" type="" control=""/>
+		<a InternalConns="P2:_35" description="ENG ACCESSORY SW MONITOR" components="" type="" control=""/>
+		<b InternalConns="P2:_4" description="BIDI/INV ENABLE MONITOR" components="" type="" control=""/>
+		<c InternalConns="P2:_14" description="CMPS BIAS PWR MONITOR" components="" type="" control=""/>
+		
+		<d InternalConns="P2:_20" description="AUX WATER PUMP MONITOR" components="" type="" control=""/>
+		<e InternalConns="P2:_3" description="FAN SPEED CTRL MONITOR" components="" type="" control=""/>
+		<f InternalConns="P2:_16" description="XMISSION PWR MONITOR" components="" type="" control=""/>
+		<g InternalConns="P2:_21" description="FUEL PUMPS MONITOR" components="" type="" control=""/>
+		<v InternalConns="P2:_17" description="LEFT DOOR PWR MONITOR" components="" type="" control=""/>
+		
+		<w InternalConns="P2:_18" description="RIGHT DOOR PWR MONITOR" components="" type="" control=""/>
+		<x InternalConns="P2:_15" description="SPARE" components="" type="" control=""/>
+		<BB InternalConns="P2:_19" description="FUEL PUMP CONTROL MONITORSPARE" components="" type="" control=""/>
+		<CC InternalConns="P2:_22" description="EECM MONITOR" components="" type="" control=""/>
+		<KK InternalConns="P2:_27" description="SPARE" components="" type="" control=""/>
+		
+		<y InternalConns="" description="NOT USED" components="" type="" control=""/>
+		<z InternalConns="" description="NOT USED" components="" type="" control=""/>
+		<AA InternalConns="" description="NOT USED" components="" type="" control=""/>
+		<DD InternalConns="" description="NOT USED" components="" type="" control=""/>
+		<EE InternalConns="" description="NOT USED" components="" type="" control=""/>
+		<FF InternalConns="" description="NOT USED" components="" type="" control=""/>
+		<GG InternalConns="" description="NOT USED" components="" type="" control=""/>
+		<HH InternalConns="" description="NOT USED" components="" type="" control=""/>
+		<X InternalConns="" description="NOT USED" components="" type="" control=""/>
+		<Y InternalConns="" description="NOT USED" components="" type="" control=""/>
+		
+		<E InternalConns="P3:F" description="LEAD FILTER(INTAKE)" components="" type="" control=""/>
+		<F InternalConns="P3:N" description="EXHAUST SWT" components="" type="" control=""/>
+		<G InternalConns="P3:R" description="TRAVEL LOCK LOW/LOCK SW" components="" type="" control=""/>
+		<H InternalConns="P3:P" description="TRAVEL LOCK RAISE/UNLOCK SW" components="" type="" control=""/>
+		<J InternalConns="P3:E" description="RAISE/UNLOCK IND" components="" type="" control=""/>
+		<K InternalConns="P3:D" description="LOWER/LOCK IND" components="" type="" control=""/>
+		
+		<U InternalConns="P2:_37" description="VCDM1 ANALOG MONITOR RTN" components="" type="" control=""/>
+		<V InternalConns="P3:X" description="VCDM2 ANALOG MONITOR RTN" components="" type="" control=""/>
+		<Z InternalConns="P3:A" description="VENT FAN CTRL RELAY(CAT)" components="" type="" control=""/>
+		<JJ InternalConns="P3:Z" description="PERSONNEL VENT PWR (CAT)" components="" type="" control=""/>
+		<LL InternalConns="P3:W" description="PERSONNEL VENT PWR (CAT)" components="" type="" control=""/>
+		
+		<h InternalConns="P3:H" description="NOT USED" components="" type="" control=""/>
+		<k InternalConns="P3:C" description="P-HEATER SHUTDOWN" components="" type="" control=""/>
+		<m InternalConns="P3:B" description="P-HEATER DISABLE" components="" type="" control=""/>
+		<n InternalConns="P3:Y" description="HEATER START MONITOR" components="" type="" control=""/>
+		<p InternalConns="P3:J" description="HEATER PWR MONITOR" components="" type="" control=""/>
+		
+		<q InternalConns="P3:S" description="HEATER RUN/ON MONITOR" components="" type="" control=""/>
+		<r InternalConns="P3:T" description="HEATER HIGH HEAT MONITOR" components="" type="" control=""/>
+		<s InternalConns="P3:K" description="HEATER ENABLE MONITOR" components="" type="" control=""/>
+		<t InternalConns="P3:L" description="TURN SIGNAL/REAR DOOR PWR MONITOR" components="" type="" control=""/>
+		<u InternalConns="P3:M" description="HORN/DOME PWR MONITOR" components="" type="" control=""/>
+		
+	</P1>
+
+	<P2 ExternalConnLRU="Item1" ExternalConnConnector="J4">
+		<_2 InternalConns="P1:A" description="HIGH IDLE SW" components="" type="" control=""/>
+		<_1 InternalConns="P1:B" description="AUDIO TONE CANCEL SW" components="" type="" control=""/>
+		<_36 InternalConns="P1:C" description="BILGE PUMP SW" components="" type="" control=""/>
+		<_34 InternalConns="P1:D" description="BILGE PUMP IND" components="" type="" control=""/>
+		<_32 InternalConns="P1:L" description="STOP ENGINE IND" components="" type="" control=""/>
+		
+		<_31 InternalConns="P1:M" description="CHECK ENGINE IND" components="" type="" control=""/>
+		<_33 InternalConns="P1:N" description="XMISSION OIL HIGH TEMP" components="" type="" control=""/>
+		<_28 InternalConns="P1:P" description="DRIVERS HATCH OPEN SW" components="" type="" control=""/>
+		<_29 InternalConns="P1:R" description="DRIVERS HATCH OPEN SW RTN" components="" type="" control=""/>
+		<_11 InternalConns="P1:S" description="+28VDC BUS MONITOR" components="" type="" control=""/>
+		
+		<_26 InternalConns="P1:T" description="BATTERY INPUT MONITOR" components="" type="" control=""/>
+		<_12 InternalConns="P1:W" description="MASTER POWER SW OFF" components="" type="" control=""/>
+		<_35 InternalConns="P1:a" description="ENG ACCESSORY SW MONITOR" components="" type="" control=""/>
+		<_4 InternalConns="P1:b" description="BIDI/INV ENABLE MONITOR" components="" type="" control=""/>
+		<_14 InternalConns="P1:c" description="CMPS BIAS PWR MONITOR" components="" type="" control=""/>
+		
+		<_20 InternalConns="P1:d" description="AUX WATER PUMP MONITOR" components="" type="" control=""/>
+		<_3 InternalConns="P1:e" description="FAN SPEED CTRL MONITOR" components="" type="" control=""/>
+		<_16 InternalConns="P1:f" description="XMISSION CTRL PWR" components="" type="" control=""/>
+		<_21 InternalConns="P1:g" description="FUEL PUMPS MONITOR" components="" type="" control=""/>
+		<_17 InternalConns="P1:v" description="LEFT DOOR PWR MONITOR" components="" type="" control=""/>
+		
+		<_18 InternalConns="P1:w" description="RIGHT DOOR PWR MONITOR" components="" type="" control=""/>
+		<_15 InternalConns="P1:x" description="SPARE (DIFF_A1_21)" components="" type="" control=""/>
+		<_19 InternalConns="P1:BB" description="FUEL PUMP CONTROL MONITORSPARE" components="" type="" control=""/>
+		<_22 InternalConns="P1:CC" description="EECM MONITOR" components="" type="" control=""/>
+		<_27 InternalConns="P1:KK" description="DIFF_A1_21" components="" type="" control=""/>
+		<_37 InternalConns="P1:U" description="DSP GND" components="" type="" control=""/>
+	</P2>
+	
+	<P3 ExternalConnLRU="Item11" ExternalConnConnector="J2">
+		<F InternalConns="P1:E" description="INTAKE SW" components="" type="" control=""/>
+		<N InternalConns="P1:F" description="EXHAUST SW(CAT)" components="" type="" control=""/>
+		<R InternalConns="P1:G" description="TRAVEL LOCK LOW/LOCK SW" components="" type="" control=""/>
+		<P InternalConns="P1:H" description="TRAVEL LOCK RAISE/UNLOCK SW" components="" type="" control=""/>
+		<E InternalConns="P1:J" description="RAISE/UNLOCK IND (SPH)" components="" type="" control=""/>
+		<D InternalConns="P1:K" description="LOWER/LOCK IND(SPH)" components="" type="" control=""/>
+		
+		<G InternalConns="" description="NOT USED" components="" type="" control=""/>
+		<X InternalConns="P1:V" description="DSP GND" components="" type="" control=""/>
+		<A InternalConns="P1:Z" description="VENT FAN CTRL(CAT)" components="" type="" control=""/>
+		<Z InternalConns="P1:JJ" description="PERSONNEL VENT PWR (CAT)" components="" type="" control=""/>
+		<W InternalConns="P1:LL" description="PERSONNEL VENT PWR (CAT)" components="" type="" control=""/>
+		
+		<H InternalConns="P1:h" description="NOT USED" components="" type="" control=""/>
+		<C InternalConns="P1:k" description="P-HEATER SHUTDOWN" components="" type="" control=""/>
+		<B InternalConns="P1:m" description="P-HEATER DISABLE" components="" type="" control=""/>
+		<Y InternalConns="P1:n" description="HEATER START SW" components="" type="" control=""/>
+		<J InternalConns="P1:p" description="HEATER PWR" components="" type="" control=""/>
+		
+		<S InternalConns="P1:q" description="HEATER RUN/ON SW" components="" type="" control=""/>
+		<T InternalConns="P1:r" description="HEATER HIGH SW" components="" type="" control=""/>
+		<K InternalConns="P1:s" description="HEATER ENABLE " components="" type="" control=""/>
+		<L InternalConns="P1:t" description="TURN SIGNAL PWR" components="" type="" control=""/>
+		<M InternalConns="P1:u" description="HORN/DOME PWR" components="" type="" control=""/>
+		<U InternalConns="" description="NOT USED" components="" type="" control=""/>
+		<V InternalConns="" description="NOT USED" components="" type="" control=""/>
+	</P3>
+</CABLE>
+

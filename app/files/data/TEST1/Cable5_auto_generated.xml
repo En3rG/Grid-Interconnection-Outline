@@ -1,0 +1,9 @@
+<LRU name="Cable5" DrawingNo="Auto Generated" DrawingNomenclature="Auto Generated" DrawingRevision="" DrawingDate="" Images="">
+  <J2 ExternalConnLRU="Cable1" ExternalConnConnector="P4">
+    <_1 InternalConns="" description="INTERCOM AUDIO TONE +" components="" type="" control=""/>
+    <_2 InternalConns="" description="INTERCOM AUDIO TONE -" components="" type="" control=""/>
+    <_3 InternalConns="" description="SHIELD" components="" type="" control=""/>
+    <_4 InternalConns="" description="" components="" type="" control=""/>
+    <_5 InternalConns="" description="" components="" type="" control=""/>
+  </J2>
+</LRU>

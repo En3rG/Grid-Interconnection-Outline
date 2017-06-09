@@ -1,0 +1,27 @@
+<LRU name="Item11" DrawingNo="Auto Generated" DrawingNomenclature="Auto Generated" DrawingRevision="" DrawingDate="" Images="">
+  <J2 ExternalConnLRU="Cable3" ExternalConnConnector="P3">
+    <F InternalConns="" description="INTAKE SW" components="" type="" control=""/>
+    <N InternalConns="" description="EXHAUST SW(CAT)" components="" type="" control=""/>
+    <R InternalConns="" description="TRAVEL LOCK LOW/LOCK SW" components="" type="" control=""/>
+    <P InternalConns="" description="TRAVEL LOCK RAISE/UNLOCK SW" components="" type="" control=""/>
+    <E InternalConns="" description="RAISE/UNLOCK IND (SPH)" components="" type="" control=""/>
+    <D InternalConns="" description="LOWER/LOCK IND(SPH)" components="" type="" control=""/>
+    <G InternalConns="" description="NOT USED" components="" type="" control=""/>
+    <X InternalConns="" description="DSP GND" components="" type="" control=""/>
+    <A InternalConns="" description="VENT FAN CTRL(CAT)" components="" type="" control=""/>
+    <Z InternalConns="" description="PERSONNEL VENT PWR (CAT)" components="" type="" control=""/>
+    <W InternalConns="" description="PERSONNEL VENT PWR (CAT)" components="" type="" control=""/>
+    <H InternalConns="" description="NOT USED" components="" type="" control=""/>
+    <C InternalConns="" description="P-HEATER SHUTDOWN" components="" type="" control=""/>
+    <B InternalConns="" description="P-HEATER DISABLE" components="" type="" control=""/>
+    <Y InternalConns="" description="HEATER START SW" components="" type="" control=""/>
+    <J InternalConns="" description="HEATER PWR" components="" type="" control=""/>
+    <S InternalConns="" description="HEATER RUN/ON SW" components="" type="" control=""/>
+    <T InternalConns="" description="HEATER HIGH SW" components="" type="" control=""/>
+    <K InternalConns="" description="HEATER ENABLE " components="" type="" control=""/>
+    <L InternalConns="" description="TURN SIGNAL PWR" components="" type="" control=""/>
+    <M InternalConns="" description="HORN/DOME PWR" components="" type="" control=""/>
+    <U InternalConns="" description="NOT USED" components="" type="" control=""/>
+    <V InternalConns="" description="NOT USED" components="" type="" control=""/>
+  </J2>
+</LRU>

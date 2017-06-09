@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<CABLE name="Cable1" DrawingNo="12580673" DrawingNomenclature="Cable1 Assembly" DrawingRevision="Initial Release" DrawingDate="2015-07-01" Images="">
+	<TERMINAL ExternalConnLRU="Item1" ExternalConnConnector="Unknown">
+		<HTR InternalConns="P1:Z" description="DRIVERS DISPLAY" components="" type="" control=""/>
+		<GND InternalConns="" description="DRIVERS DISPLAY RTN" components="" type="" control=""/>
+	</TERMINAL>
+	
+	<P1 ExternalConnLRU="Item2" ExternalConnConnector="J3">
+		<J InternalConns="P2:_1,P2:_2,P2:_3,P2:_4" description="DRIVERS DISPLAY" components="" type="" control=""/>
+		<K InternalConns="P2:_5,P2:_6,P2:_7,P2:_8" description="DRIVERS DISPLAY RTN" components="" type="" control=""/>
+		
+		<G InternalConns="P3:A" description="NBC HEATER DRIVER" components="" type="" control=""/>
+		<H InternalConns="P3:B" description="NBC HEATER DRIVER RTN" components="" type="" control=""/>
+		<Z InternalConns="TERMINAL:HTR" description="DVE SYSTEM" components="" type="" control=""/>
+		<a InternalConns="TERMINAL:GND" description="DVE SYSTEM RTN" components="" type="" control=""/>
+		
+		<S InternalConns="P4:A" description="MIDSECTION CONTROLLER" components="" type="" control=""/>
+		<R InternalConns="P4:B,P4:C" description="MIDSECTION CONTROLLER" components="" type="" control=""/>
+		<B InternalConns="P4:D" description="MIDSECTION CONTROLLER RTN" components="" type="" control=""/>
+		<A InternalConns="P4:E" description="MIDSECTION CONTROLLER RTN" components="" type="" control=""/>
+	</P1>
+
+	<P2 ExternalConnLRU="Item3" ExternalConnConnector="J1">
+		<_1 InternalConns="P1:J,P2:_2,P2:_3,P2:_4" description="" components="" type="" control=""/>
+		<_2 InternalConns="P2:_1,P1:J,P2:_3,P2:_4" description="" components="" type="" control=""/>
+		<_3 InternalConns="P2:_1,P2:_2,P1:J,P2:_4" description="" components="" type="" control=""/>
+		<_4 InternalConns="P2:_1,P2:_2,P2:_3,P1:J" description="" components="" type="" control=""/>
+		
+		<_5 InternalConns="P1:K,P2:_6,P2:_7,P2:_8" description="" components="" type="" control=""/>
+		<_6 InternalConns="P2:_5,P1:K,P2:_7,P2:_8" description="" components="" type="" control=""/>
+		<_7 InternalConns="P2:_5,P2:_6,P1:K,P2:_8" description="" components="" type="" control=""/>
+		<_8 InternalConns="P2:_5,P2:_6,P2:_7,P1:K" description="" components="" type="" control=""/>
+		
+		<_9 InternalConns="" description="" components="" type="" control=""/>
+		<_10 InternalConns="" description="" components="" type="" control=""/>
+		<_11 InternalConns="" description="" components="" type="" control=""/>
+		<_12 InternalConns="" description="" components="" type="" control=""/>
+		
+	</P2>
+	
+	<P3 ExternalConnLRU="Item4" ExternalConnConnector="J1">
+		<A InternalConns="P1:G" description="" components="" type="" control=""/>
+		<B InternalConns="P1:H" description="" components="" type="" control=""/>
+		<C InternalConns="" description="" components="" type="" control=""/>
+	</P3>
+	
+	<P4 ExternalConnLRU="Item5" ExternalConnConnector="Unknown">
+		<A InternalConns="P1:S" description="28VDC BATT" components="" type="" control=""/>
+		<B InternalConns="P4:C,P1:R" description="28VDC BATT" components="" type="" control=""/>
+		<C InternalConns="P4:B,P1:R" description="28VDC SWITCHED" components="" type="" control=""/>
+		<D InternalConns="P1:B" description="GND" components="" type="" control=""/>
+		<E InternalConns="P1:A" description="GND" components="" type="" control=""/>
+		<F InternalConns="" description="" components="" type="" control=""/>
+	</P4>
+</CABLE>
+

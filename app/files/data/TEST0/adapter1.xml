@@ -1,0 +1,16 @@
+<ADAPTER name="adapter1" DrawingNo="123523521" DrawingNomenclature="Adapter1 Assembly" DrawingRevision="" DrawingDate="" Images="">
+  <P3 ExternalConnLRU="Item2" ExternalConnConnector="J3">
+    <G InternalConns="P3:J" description="" components="" type="" control=""/>
+	<J InternalConns="P3:G" description="" components="" type="" control=""/>
+	
+	<K InternalConns="" description="" components="" type="" control=""/>
+	<H InternalConns="" description="" components="" type="" control=""/>
+	<Z InternalConns="" description="" components="" type="" control=""/>
+	<a InternalConns="" description="" components="" type="" control=""/>
+	<S InternalConns="" description="" components="" type="" control=""/>
+	<R InternalConns="" description="" components="" type="" control=""/>
+	<B InternalConns="" description="" components="" type="" control=""/>
+	<A InternalConns="" description="" components="" type="" control=""/>
+  </P3>
+
+</ADAPTER>

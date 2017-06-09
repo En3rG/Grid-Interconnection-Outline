@@ -1,0 +1,10 @@
+<LRU name="Item9" DrawingNo="Auto Generated" DrawingNomenclature="Auto Generated" DrawingRevision="" DrawingDate="" Images="">
+  <Unknown ExternalConnLRU="Cable2" ExternalConnConnector="P4">
+    <A InternalConns="" description="28VDC BATT" components="" type="" control=""/>
+    <B InternalConns="" description="28VDC BATT" components="" type="" control=""/>
+    <C InternalConns="" description="28VDC SWITCHED" components="" type="" control=""/>
+    <D InternalConns="" description="GND" components="" type="" control=""/>
+    <E InternalConns="" description="GND" components="" type="" control=""/>
+    <F InternalConns="" description="" components="" type="" control=""/>
+  </Unknown>
+</LRU>

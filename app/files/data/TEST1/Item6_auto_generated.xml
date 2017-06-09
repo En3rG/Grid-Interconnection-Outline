@@ -1,0 +1,6 @@
+<LRU name="Item6" DrawingNo="Auto Generated" DrawingNomenclature="Auto Generated" DrawingRevision="" DrawingDate="" Images="">
+  <Unknown ExternalConnLRU="Cable2" ExternalConnConnector="TERMINAL">
+    <HTR InternalConns="" description="DRIVERS DISPLAY" components="" type="" control=""/>
+    <GND InternalConns="" description="DRIVERS DISPLAY RTN" components="" type="" control=""/>
+  </Unknown>
+</LRU>

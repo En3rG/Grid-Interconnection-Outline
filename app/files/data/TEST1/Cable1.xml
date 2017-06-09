@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<CABLE name="Cable1" DrawingNo="12580673" DrawingNomenclature="Cable1 Assembly" DrawingRevision="Initial Release" DrawingDate="2015-07-01" Images="">
+	<P1 ExternalConnLRU="Item1" ExternalConnConnector="J2">
+		<C InternalConns="" description="" components="" type="" control=""/>
+		<W InternalConns="P3:B,P2:_4" description="ECM ENABLE" components="" type="" control=""/>
+		<A InternalConns="P4:_1" description="AUDIO TONE" components="" type="" control=""/>
+		<B InternalConns="P4:_2" description="AUDIO TONE RTN" components="" type="" control=""/>
+		<D InternalConns="" description="" components="" type="" control=""/>
+		<E InternalConns="" description="" components="" type="" control=""/>
+		<F InternalConns="" description="" components="" type="" control=""/>
+		<G InternalConns="" description="" components="" type="" control=""/>
+		<V InternalConns="P5:D,P2:_2" description="ST-ENGINE START SW" components="" type="" control=""/>
+		<H InternalConns="" description="" components="" type="" control=""/>
+		<J InternalConns="" description="" components="" type="" control=""/>
+		<K InternalConns="" description="" components="" type="" control=""/>
+		<L InternalConns="" description="" components="" type="" control=""/>
+		<M InternalConns="" description="" components="" type="" control=""/>
+		<N InternalConns="" description="" components="" type="" control=""/>
+		<P InternalConns="" description="" components="" type="" control=""/>
+		<R InternalConns="" description="" components="" type="" control=""/>
+		<X InternalConns="" description="" components="" type="" control=""/>
+		<T InternalConns="" description="" components="" type="" control=""/>
+		<a InternalConns="J1:F" description="DRIVERS HATCH CLOSED" components="" type="" control=""/>
+		<Z InternalConns="J1:D" description="DRIVERS HATCH CLOSED RTN" components="" type="" control=""/>
+		<c InternalConns="J1:B" description="DRIVERS HATCH CLOSED OPEN" components="" type="" control=""/>
+		<Y InternalConns="J1:A" description="DRIVERS HATCH CLOSED RTN" components="" type="" control=""/>
+		<S InternalConns="J2:F" description="MIDSECTION DOWN" components="" type="" control=""/>
+		<b InternalConns="J2:D" description="MIDSECTION DOWN RTN" components="" type="" control=""/>
+		<U InternalConns="" description="" components="" type="" control=""/>
+	</P1>
+
+	
+	<P2 ExternalConnLRU="Cable4" ExternalConnConnector="J1">
+		<_1 InternalConns="P5:F" description="START SW" components="" type="" control=""/>
+		<_2 InternalConns="P5:D,P1:V" description="START REQ" components="" type="" control=""/>
+		<_3 InternalConns="P2:_5,P3:A" description="ECM POWER (DSP)" components="" type="" control=""/>
+		<_4 InternalConns="P3:B,P1:W" description="ENGINE STOP" components="" type="" control=""/>
+		<_5 InternalConns="P3:A,P2:_3" description="ECM POWER" components="" type="" control=""/>
+	</P2>
+	
+	<P3 ExternalConnLRU="Item2" ExternalConnConnector="Unknown">
+		<F InternalConns="" description="" components="" type="" control=""/>
+		<E InternalConns="" description="" components="" type="" control=""/>
+		<D InternalConns="" description="" components="" type="" control=""/>
+		<C InternalConns="" description="" components="" type="" control=""/>
+		<B InternalConns="P2:_4,P1:V" description="" components="" type="" control=""/>
+		<A InternalConns="P2:_5,P2:_3" description="" components="" type="" control=""/>
+	</P3>
+	
+	<P4 ExternalConnLRU="Cable5" ExternalConnConnector="J2">
+		<_1 InternalConns="P1:A" description="INTERCOM AUDIO TONE +" components="" type="" control=""/>
+		<_2 InternalConns="P1:B" description="INTERCOM AUDIO TONE -" components="" type="" control=""/>
+		<_3 InternalConns="" description="SHIELD" components="" type="" control=""/>
+		<_4 InternalConns="" description="" components="" type="" control=""/>
+		<_5 InternalConns="" description="" components="" type="" control=""/>
+	</P4>
+	
+	<P5 ExternalConnLRU="Item3" ExternalConnConnector="Unknown">
+		<A InternalConns="" description="" components="" type="" control=""/>
+		<B InternalConns="" description="" components="" type="" control=""/>
+		<C InternalConns="" description="" components="" type="" control=""/>
+		<D InternalConns="P1:V,P2:_2" description="" components="" type="" control=""/>
+		<E InternalConns="" description="" components="" type="" control=""/>
+		<F InternalConns="P2:_1" description="" components="" type="" control=""/>
+		<G InternalConns="" description="" components="" type="" control=""/>
+	</P5>
+	
+	<J1 ExternalConnLRU="Item4" ExternalConnConnector="Unknown">
+		<A InternalConns="P1:Y" description="" components="" type="" control=""/>
+		<B InternalConns="P1:c" description="" components="" type="" control=""/>
+		<C InternalConns="" description="" components="" type="" control=""/>
+		<D InternalConns="P1:Z" description="" components="" type="" control=""/>
+		<E InternalConns="" description="" components="" type="" control=""/>
+		<F InternalConns="P1:a" description="" components="" type="" control=""/>
+	</J1>
+	
+	<J2 ExternalConnLRU="Item5" ExternalConnConnector="Unknown">
+		<A InternalConns="" description="" components="" type="" control=""/>
+		<B InternalConns="" description="" components="" type="" control=""/>
+		<C InternalConns="" description="" components="" type="" control=""/>
+		<D InternalConns="P1:b" description="" components="" type="" control=""/>
+		<E InternalConns="" description="" components="" type="" control=""/>
+		<F InternalConns="P1:S" description="" components="" type="" control=""/>
+	</J2>
+	
+
+</CABLE>
+
